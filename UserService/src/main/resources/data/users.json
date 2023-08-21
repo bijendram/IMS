@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "jdoe@example.com",
+        "password": "password",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "marital_status": "Married"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Mary",
+        "email": "jmary@example.com",
+        "password": "password",
+        "phone_number": "1234567890",
+        "address": "1234 Main St",
+        "marital_status": "Single"
+    }
+]
